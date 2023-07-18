@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+nav{
+    width: 100vw;
+    height:100vh;
+    font-family: sans-serif;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul li{
+    display: flex;
+    justify-content:space-between;
+    background-color: #d4d3d3;
+    margin: 2px;
+    width: 1000px;
+    height: 50px;
+    align-items: center;
+}
+
+button{
+    background-color:#fff;
+    border: none;
+    margin: 9px; 
+    padding: 9px;
+}
+
+
+

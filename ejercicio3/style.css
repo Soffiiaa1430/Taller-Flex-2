@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:#e2e2e2;
+    height: 950px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    width: 30%;
+    background-color: #cfcecd;
+    width: 400px;
+    padding: 100px;
+    margin: 100px;
+}
+.titulo{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 27px;
+}
+
+.texto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
